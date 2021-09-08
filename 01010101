@@ -1,0 +1,21 @@
+game.Players.LocalPlayer.Character["GoldenHelmet"].Name = "swordhalo"
+wait (.1)
+game.Players.LocalPlayer.Character["GoldenHelmet"].Name = "BladeMasterAccessory"
+wait (.1)
+game.Players.LocalPlayer.Character["GoldenHelmet"].Name = "ShadowBladeMasterAccessory"
+wait (.1)
+game.Players.LocalPlayer.Character["GoldenHelmet"].Name = "Evil Aura"
+wait (.1)
+game.Players.LocalPlayer.Character["GoldenHelmet"].Name = "Northern Star"
+wait (.1)
+game.Players.LocalPlayer.Character["GoldenHelmet"].Name = "Meshes/Crystal MoonAccessory"
+wait (.1)
+game.Players.LocalPlayer.Character["GoldenHelmet"].Name = "MeshPartAccessory"
+wait (.1)
+game.Players.LocalPlayer.Character["GoldenHelmet"].Name = "MeshPartAccessory"
+
+wait (.1)
+game.Players.LocalPlayer.Character["GoldenHelmet"].Name = "MeshPartAccessory"
+
+wait (.1)
+	game.Players.LocalPlayer.Character["GoldenHelmet"].Name = "MeshPartAccessory"
